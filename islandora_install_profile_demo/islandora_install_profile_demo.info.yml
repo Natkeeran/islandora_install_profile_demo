@@ -111,8 +111,6 @@ themes:
   - adminimal_theme
   - islandora_base_theme
   - islandora_starter_theme
-themes:
-  - islandora_starter_theme
   - bartik
   - seven
   - olivero
